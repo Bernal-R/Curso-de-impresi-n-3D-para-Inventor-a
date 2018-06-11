@@ -20,3 +20,5 @@ Links que necesitamos para poner a imprimir un diseño
 
 ## Reparación:
 Links que necesitamos para repación de impresoras 3D
+* Firmware Updater http://printrbot.com/firmware/
+* Guía: https://printrbot.zendesk.com/hc/en-us/articles/202457834-How-to-Flash-Printrboard-Firmware
