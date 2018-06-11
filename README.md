@@ -17,6 +17,7 @@ Links de repostorios de archivos 3D:
 Links que necesitamos para poner a imprimir un diseño:
 * Cura: https://ultimaker.com/en/products/ultimaker-cura-software/list
 * MatterControl: https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6
+* Tutorial: https://www.instructables.com/id/Como-Usar-La-Impresora-3D-Printrbot-Simple-Metal-D/ 
 
 ## Reparación:
 Links que necesitamos para repación de impresoras 3D:
