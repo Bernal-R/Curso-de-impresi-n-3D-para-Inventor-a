@@ -9,9 +9,9 @@ Los links para diseño 3D:
 
 ## Repositorios:
 Links de repostorios de archivos 3D:
-* thingiverse :https://www.thingiverse.com/
-* cults: https://cults3d.com/
-* pinshape: https://pinshape.com/
+* Thingiverse :https://www.thingiverse.com/
+* Cults: https://cults3d.com/
+* Pinshape: https://pinshape.com/
 
 ## Operación: 
 Links que necesitamos para poner a imprimir un diseño:
