@@ -7,6 +7,12 @@ Los links para diseño 3D:
 * Diseño con Fusión 360: https://www.autodesk.com/products/fusion-360/students-teachers-educators
 * Diseño con FreeCAD (OpenSource): https://www.freecadweb.org/ 
 
+## Repositorios
+Links de repostorios de archivos 3D:
+* thingiverse :https://www.thingiverse.com/
+* cults: https://cults3d.com/
+* pinshape: https://pinshape.com/
+
 ## Operación 
 Links que necesitamos para poner a imprimir un diseño
 
