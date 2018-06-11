@@ -7,15 +7,16 @@ Los links para diseño 3D:
 * Diseño con Fusión 360: https://www.autodesk.com/products/fusion-360/students-teachers-educators
 * Diseño con FreeCAD (OpenSource): https://www.freecadweb.org/ 
 
-## Repositorios
+## Repositorios:
 Links de repostorios de archivos 3D:
 * thingiverse :https://www.thingiverse.com/
 * cults: https://cults3d.com/
 * pinshape: https://pinshape.com/
 
-## Operación 
+## Operación: 
 Links que necesitamos para poner a imprimir un diseño
+Cura: https://ultimaker.com/en/products/ultimaker-cura-software/list
+MatterControl: https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6
 
-
-## Reparación 
+## Reparación:
 Links que necesitamos para repación de impresoras 3D
