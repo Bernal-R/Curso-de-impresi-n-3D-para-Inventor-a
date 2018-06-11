@@ -15,8 +15,8 @@ Links de repostorios de archivos 3D:
 
 ## Operación: 
 Links que necesitamos para poner a imprimir un diseño
-Cura: https://ultimaker.com/en/products/ultimaker-cura-software/list
-MatterControl: https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6
+* Cura: https://ultimaker.com/en/products/ultimaker-cura-software/list
+* MatterControl: https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6
 
 ## Reparación:
 Links que necesitamos para repación de impresoras 3D
