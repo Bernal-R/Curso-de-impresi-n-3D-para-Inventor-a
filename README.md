@@ -14,12 +14,12 @@ Links de repostorios de archivos 3D:
 * pinshape: https://pinshape.com/
 
 ## Operación: 
-Links que necesitamos para poner a imprimir un diseño
+Links que necesitamos para poner a imprimir un diseño:
 * Cura: https://ultimaker.com/en/products/ultimaker-cura-software/list
 * MatterControl: https://www.matterhackers.com/store/l/mattercontrol/sk/MKZGTDW6
 
 ## Reparación:
-Links que necesitamos para repación de impresoras 3D
+Links que necesitamos para repación de impresoras 3D:
 * Firmware Updater: http://printrbot.github.io/firmware-updater/
 * Guía: https://printrbot.zendesk.com/hc/en-us/articles/202457834-How-to-Flash-Printrboard-Firmware
 * Tutorial: https://docs.google.com/presentation/d/1V6yQyPtTuzgUW38wHu9ImRcYBqYN24fa_XlOc58qMPw/pub?start=true&loop=false&delayms=60000&slide=id.p
