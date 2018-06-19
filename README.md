@@ -24,4 +24,4 @@ Links que necesitamos para repación de impresoras 3D:
 * Firmware Updater: http://printrbot.github.io/firmware-updater/
 * Guía: https://printrbot.zendesk.com/hc/en-us/articles/202457834-How-to-Flash-Printrboard-Firmware
 * Tutorial: https://docs.google.com/presentation/d/1V6yQyPtTuzgUW38wHu9ImRcYBqYN24fa_XlOc58qMPw/pub?start=true&loop=false&delayms=60000&slide=id.p
-* GCODE: https://en.wikipedia.org/wiki/G-code
+* G-code: https://en.wikipedia.org/wiki/G-code
